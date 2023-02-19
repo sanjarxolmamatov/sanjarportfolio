@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544264646154",
+    "project_id": "sanjar2-4fbf6",
+    "storage_bucket": "sanjar2-4fbf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544264646154:android:a80ff62069597dd37079f3",
+        "android_client_info": {
+          "package_name": "com.example.fire_pase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544264646154-sn50f39s5skr3i724nmtg7ddo6mubbnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXQHyl10myU6w7uUqrsHGY_w_pMKLN-K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544264646154-sn50f39s5skr3i724nmtg7ddo6mubbnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

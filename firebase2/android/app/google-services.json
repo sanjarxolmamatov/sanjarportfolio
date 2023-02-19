@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590911227708",
+    "project_id": "sanjar-firebase",
+    "storage_bucket": "sanjar-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590911227708:android:08852951479558b79f8039",
+        "android_client_info": {
+          "package_name": "com.example.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590911227708-io3vdp09k7vl3b7dd7q02381fnvdb9tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvCYN6liE4vG1DiOmKlUC4AlNkV09FRX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590911227708-io3vdp09k7vl3b7dd7q02381fnvdb9tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
